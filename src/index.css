@@ -7,7 +7,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.title, h2  {
+.title, .subtitle {
   text-align: center;
   color: #333;
   margin-top: 20px;
