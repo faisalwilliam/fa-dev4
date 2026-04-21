@@ -7,15 +7,20 @@ import Main from "../compoments/main";
 
 const Kitchen = () => {
     return (
-        <>
+        <div>
             <Header />
 
            <Main pageName="Kitchen Page" />
+          
+     
+   
+        
+         
             <Footer />
 
+        </div>
 
-
-        </>
+    
     )
 }
 export default Kitchen;

@@ -13,7 +13,7 @@ import Main from "../compoments/main";
 
 
 
-const humberger = () => {
+const Humburger = () => {
     return (
         <>
 
@@ -29,6 +29,4 @@ const humberger = () => {
         </>
     )
 }
-export default humberger;
-
-
+export default Humburger;

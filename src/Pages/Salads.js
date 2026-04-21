@@ -14,7 +14,7 @@ const Salads = () => {
       
             <Header />
 
-            <Main pageName="Salads Page" />
+            <Main pageName="Salads Page"  />
             <Footer />
          
 

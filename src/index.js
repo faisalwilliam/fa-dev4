@@ -49,11 +49,12 @@ const router = createBrowserRouter([
   },
   {
     path: "/Salads",
-    element: <Salads />,
-
+    element: <Salads />
   },
 
 ]);
+
+
 
 // Render the application
 
@@ -68,5 +69,3 @@ root.render(
     <RouterProvider router={router} />,
   </React.StrictMode>
 );
-
-
